@@ -1,0 +1,5 @@
+com\library\librarymanagement\controller\BookController.class
+com\library\librarymanagement\LibraryManagementApplication.class
+com\library\librarymanagement\repository\BookRepository.class
+com\library\librarymanagement\entity\Book.class
+com\library\librarymanagement\service\BookService.class
