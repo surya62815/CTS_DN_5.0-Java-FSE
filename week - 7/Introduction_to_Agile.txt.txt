@@ -1,0 +1,28 @@
+# ITPM – Introduction to Agile
+
+## Overview
+
+Completed a comprehensive program on Agile software development and project management, gaining practical knowledge of Agile methodologies, Scrum, Kanban, Extreme Programming (XP), and Hybrid Project Management. Learned Agile principles, iterative development, team collaboration, and the use of industry-standard Agile tools.
+
+## Key Learning Outcomes
+
+- Built a strong foundation in Agile software development and iterative delivery.
+- Understood the Agile Manifesto, including its 4 values and 12 principles.
+- Explored the Scrum framework, including roles, events, and artifacts.
+- Learned Kanban principles for workflow visualization and continuous improvement.
+- Studied Extreme Programming (XP) practices such as Pair Programming, Test-Driven Development (TDD), and Continuous Integration (CI).
+- Compared Agile, Waterfall, and Hybrid project management approaches.
+- Identified the advantages and challenges of Hybrid Project Management.
+- Gained hands-on knowledge of Agile collaboration and project management tools.
+
+## Skills
+
+- Agile Methodology
+- Scrum
+- Kanban
+- Extreme Programming (XP)
+- Sprint Planning
+- Agile Principles
+- Hybrid Project Management
+- SDLC Basics
+- Team Collaboration

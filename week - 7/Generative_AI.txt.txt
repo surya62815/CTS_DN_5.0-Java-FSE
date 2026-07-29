@@ -1,0 +1,23 @@
+# Fundamentals of Generative AI
+
+## Overview
+
+Completed a comprehensive program on the fundamentals of Generative AI, gaining practical knowledge of AI-powered tools, prompt engineering, and real-world applications. Learned to leverage Generative AI for content creation, coding assistance, research, automation, and productivity enhancement.
+
+## Key Learning Outcomes
+
+- Built a strong foundation in Generative AI concepts and applications.
+- Explored ChatGPT and its practical use cases across multiple domains.
+- Applied prompt engineering techniques to generate accurate and effective AI responses.
+- Understood how AI improves productivity through automation and intelligent assistance.
+- Learned to use AI for content generation, coding, research, and workflow optimization.
+
+## Skills
+
+- Generative AI
+- ChatGPT
+- Prompt Engineering
+- AI Productivity Tools
+- AI-Assisted Content Creation
+- AI-Powered Problem Solving
+- Workflow Automation
